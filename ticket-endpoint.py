@@ -1,4 +1,3 @@
-user_exists = False
 users = []
 with open('tickets', 'r') as f:
     for line in f:
